@@ -1,0 +1,19 @@
+1. Function Declaration, Function Expression, Стрелочные функции
+2. Function click(a,b) {
+    return a+b;
+}
+let sum = Function click(a,b) {
+    return a + b;
+}
+let sum => (a, b);
+
+3. Отладка это поиск ошибок в коде и исправлние их, а тестирование это проверка работы на соответствие техническим требованием.
+4. В Function Expression вызываем переменную и объявляем в ней функцию
+5. Она мгновенно вызывает функцию
+6. Browser Object Model, браузер предоставляет дополнитеьные объекты чтобы работать со всем, кроме документа. 
+Document Object Model, модель документа, которая представляет все содержимое страницы в виде объектов, которые можно менять.
+7. document.getElementById ('age-table')
+document.getElementsByTagName('age')
+document.getElementsByClassName('search')
+8. Необходимо использовать location.href и присвоить ему значение адресы ссылки
+9. Используя поиск, Можно присвоить значене ""

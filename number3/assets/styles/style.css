@@ -1,0 +1,28 @@
+.container {
+    max-width: auto;
+    max-height: 60vh;
+}
+
+.slides {
+    display: flex;
+    justify-content: center;
+}
+
+
+.btn {
+    display: flex;
+    justify-content: center;
+    height: max-content;
+}
+
+.prev,
+.next {
+    background-color: white;
+    border: none;
+}
+
+.text {
+    text-align: center;
+    color: rgb(12, 12, 100);
+    font-family: "Roboto", sans-serif;
+}
